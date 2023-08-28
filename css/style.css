@@ -615,9 +615,7 @@ strong {
   }
 }
 @media (max-width: 600px) {
-  #projects {
-    top: 1000px;
-  }
+  
   #project-section img{
     width: 251px;
     height: 200px;
@@ -626,7 +624,7 @@ strong {
    
   }
   #projects {
-    margin-top: 100px;
+        margin-top: 1080px;
   }
   #projects h1 {
     font-size: 1.4em;
@@ -781,7 +779,7 @@ strong {
     width: 300px;
   }
   #projects {
-    top: 190vh;
+        margin-top: 1058px;
   }
  
 }
@@ -805,7 +803,7 @@ strong {
     font-family: "Roboto Mono", monospace;
   }
   #project {
-        margin-top: 1058px;
+            margin-top: 1080px;
   }
   #project-section img {
     width: 230px;
@@ -932,7 +930,7 @@ strong {
   font-size: 22px;
 }
 #project {
-     margin-top: 1058px;
+     margin-top: 1080px;
 }
   #expert {
     text-align: center;
