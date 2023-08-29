@@ -268,18 +268,16 @@
       font-size: 1.3em;
     }
     #shadow {
-      background-color: var(--mainColor);
-      width: 370px;
-      height: 230px;
-      position: relative;
-      left: 5vw;
-      top: -45px;
-      border: 1.4px solid var(--borderColor);
-      box-shadow: -47px -41px 0 5px var(--mainColor);
-  }
+    
+        height: 224px;
+        width: 292px;
+        left: 15px;
+        box-shadow: -27px -21px 0 5px var(--mainColor);
+   
+}
     #shadow h3 {
       position: relative;
-      width: 340px;
+      width: 240px;
       top: 90px;
       left: -112px;
       font-size: 1.09em;
@@ -346,15 +344,13 @@
       background-color: black;
   }
     #shadow {
-      background-color: var(--mainColor);
-      width: 370px;
-      height: 230px;
-      position: relative;
-      left: 5vw;
-      top: -45px;
-      border: 1.4px solid var(--borderColor);
-      box-shadow: -47px -41px 0 5px var(--mainColor);
-  }
+    
+        height: 224px;
+        width: 292px;
+        left: 15px;
+        box-shadow: -27px -21px 0 5px var(--mainColor);
+   
+}
     #about {
       margin-top: 200px;
     }
@@ -366,7 +362,7 @@
     }
     #shadow h3 {
       position: relative;
-      width: 340px;
+      width: 240px;
       top: 90px;
       left: -112px;
       font-size: 1.09em;
@@ -399,16 +395,14 @@
     header {
       font-size: 1.3em;
     }
-    #shadow {
-      background-color: var(--mainColor);
-      width: 170px;
-      height: 130px;
-      position: relative;
-      left: 5vw;
-      top: -25px;
-      border: 1.4px solid var(--borderColor);
-      box-shadow: -47px -41px 0 5px var(--mainColor);
-  }
+   #shadow {
+    
+        height: 224px;
+        width: 292px;
+        left: 15px;
+        box-shadow: -27px -21px 0 5px var(--mainColor);
+   
+}
   #project-section img {
     width: 230px;
     height: 200px;
@@ -424,7 +418,7 @@
     right: -80px;
   }
     #shadow h3 {
-    width: 231px;
+    width: 261px;
     
 }
   #shadow h2{
