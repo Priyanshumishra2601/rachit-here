@@ -178,7 +178,7 @@
   
   @media (max-width: 1024px) {
     #main img {
-      margin: -51px -1px;
+         margin: -57px 0px;
     }
     #projects {
       top: 1000px;
