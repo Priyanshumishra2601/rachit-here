@@ -448,7 +448,7 @@
 
   @media (max-width: 374px) {
     #shadow h3 {
-        width: 186px;
+        width: 286px;
       margin: 0;
     }
     #shadow {
@@ -519,16 +519,14 @@
       border: 2px solid white;
       background-color: black;
   }
-    #shadow {
-      background-color: var(--mainColor);
-      width: 370px;
-      height: 230px;
-      position: relative;
-      left: 5vw;
-      top: -45px;
-      border: 1.4px solid var(--borderColor);
-      box-shadow: -47px -41px 0 5px var(--mainColor);
-  }
+  #shadow {
+    
+        height: 224px;
+        width: 292px;
+        left: 15px;
+        box-shadow: -27px -21px 0 5px var(--mainColor);
+   
+}
     #about {
       margin-top: 200px;
     }
@@ -551,14 +549,7 @@
     width: 231px;
     
 }
-#shadow {
-    
-        height: 224px;
-        width: 292px;
-        left: 15px;
-        box-shadow: -27px -21px 0 5px var(--mainColor);
-   
-}
+
 #shadow h2{
   
   color: var(--mainText);
