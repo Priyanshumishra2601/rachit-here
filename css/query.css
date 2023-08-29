@@ -299,9 +299,7 @@
     
   }
   @media (max-width: 499px) {
-    #wp {
-      padding-right: 40px;
-    }
+    
     #js {
       padding-right: 0px;
     }
@@ -510,10 +508,7 @@
   }
   
   @media (max-width: 380px) {
-    #wp {
-      padding-top: 6px;
-      padding-right: 3px;
-    }
+   
    
   
     #anchor a {
