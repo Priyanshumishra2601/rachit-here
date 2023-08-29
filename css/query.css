@@ -564,5 +564,11 @@
     display: inline-block;
     /* margin-right: 20px; */
 }
+    .skill-card a {
+    margin: 2px 7px;
+    display: inline-block;
+    color: var(--mainText);
+    text-decoration: none;
+}
   
   }
