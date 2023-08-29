@@ -433,9 +433,9 @@
     }
    
    .skill-card {
-    width: 199px;
+    width: 299px;
     display: inline-block;
-    /* margin-right: 20px; */
+   
 }
       .skill-card a {
     margin: 2px 7px;
