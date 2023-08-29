@@ -432,7 +432,11 @@
       text-align: center;
     }
    
-   
+   .skill-card {
+    width: 199px;
+    display: inline-block;
+    /* margin-right: 20px; */
+}
 }
 
 
@@ -486,7 +490,11 @@
     #project {
         margin-top: 1129px;
     }
-   
+   .skill-card {
+    width: 199px;
+    display: inline-block;
+    /* margin-right: 20px; */
+}
   }
   
   @media (max-width: 380px) {
@@ -551,6 +559,10 @@
     #expert {
       text-align: center;
     }
-   
+   .skill-card {
+    width: 199px;
+    display: inline-block;
+    /* margin-right: 20px; */
+}
   
   }
