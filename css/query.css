@@ -437,6 +437,12 @@
     display: inline-block;
     /* margin-right: 20px; */
 }
+      .skill-card a {
+    margin: 2px 7px;
+    display: inline-block;
+    color: var(--mainText);
+    text-decoration: none;
+}
 }
 
 
@@ -445,6 +451,12 @@
         width: 286px;
       margin: 0;
     }
+      .skill-card a {
+    margin: 2px 7px;
+    display: inline-block;
+    color: var(--mainText);
+    text-decoration: none;
+}
     #shadow {
         width: 228px;
         left: 70px;
