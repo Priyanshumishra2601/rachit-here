@@ -424,14 +424,9 @@
     right: -80px;
   }
     #shadow h3 {
-      position: relative;
-      width: 340px;
-      top: 90px;
-      left: -112px;
-      font-size: 1.09em;
-      line-height: 1.4;
-      font-family: "Roboto mono";
-  }
+    width: 231px;
+    
+}
   #shadow h2{
       
     color: var(--mainText);
