@@ -564,7 +564,7 @@ strong {
     margin: 0 auto;
     /* margin-top: 90px; */
     padding-top: 30px;
-    border-top: 2px solid var(--borderColor);
+/*     border-top: 2px solid var(--borderColor); */
     
 }
 }
