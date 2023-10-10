@@ -545,7 +545,7 @@ strong {
 }
 @media (max-width: 487px) {
   #projects {
-    top: 954px;
+    top: 804px;
   }
   .project-card {
     width: 350px;
@@ -564,9 +564,8 @@ strong {
     margin: 0 auto;
     /* margin-top: 90px; */
     padding-top: 30px;
-  
     border-top: 2px solid var(--borderColor);
-    border-top-width: 50px;
+    
 }
 }
 @media (max-width: 399px) {
@@ -588,7 +587,7 @@ strong {
     width: 300px;
   }
   #projects {
-    top: 1400px;
+    top: 900px;
     margin-top: 250px;
   }
 }
