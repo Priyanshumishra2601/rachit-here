@@ -88,7 +88,7 @@ nav {
 
 #main img {
   width: 250px;
-  border-radius: 200px;
+  border-radius: 500px;
   border: 3px solid var(--mainColor);
   margin: 70px 130px;
 }
