@@ -485,7 +485,7 @@ strong {
     font-size: 3.4rem;
   } */
   .skill-card {
-    margin-right: 5px;
+    margin-right: 2px;
   }
   #wp {
     padding-right: 0px;
@@ -499,7 +499,7 @@ strong {
     padding-right: 0px;
   }
   .skill-card {
-    margin-right: 5px;
+    margin-right: 2px;
   }
 }
 @media (max-width: 384px) {
@@ -555,7 +555,7 @@ strong {
     width: 350px;
   }
   .skill-card {
-    margin-right: 5px;
+    margin-right: 2px;
   }
   #shadow {
     border: none;
