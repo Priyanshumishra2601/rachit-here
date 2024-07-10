@@ -261,7 +261,7 @@ nav {
   margin-top: 28px;
 }
 .skill-card {
-  margin-right: 40px;
+  margin-right: 10px;
 }
 .skill-card a>i:hover{
   color: rgb(0, 0, 0);
@@ -485,7 +485,7 @@ strong {
     font-size: 3.4rem;
   } */
   .skill-card {
-    margin-right: 10px;
+    margin-right: 5px;
   }
   #wp {
     padding-right: 0px;
@@ -499,7 +499,7 @@ strong {
     padding-right: 0px;
   }
   .skill-card {
-    margin-right: 0px;
+    margin-right: 5px;
   }
 }
 @media (max-width: 384px) {
@@ -508,7 +508,7 @@ strong {
     margin: 0;
   }
   .skill-card {
-    margin-right: 10px;
+    margin-right: 5px;
   }
   /* #shadow {
     display: none;
@@ -555,7 +555,7 @@ strong {
     width: 350px;
   }
   .skill-card {
-    margin-right: 10px;
+    margin-right: 5px;
   }
   #shadow {
     border: none;
