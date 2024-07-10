@@ -248,7 +248,6 @@ nav {
   display: flex;
   justify-content: flex-start;
   text-align: center;
-  flex-wrap: wrap;
   margin-bottom: 50px;
   align-items: center;
   font-size: 3.5em;
@@ -261,7 +260,7 @@ nav {
 #blogs .skill-card{
   display: flex;
   height: auto;
-  width: 94vw;
+  width: 19vw;
   margin: 8px -16px;
   background-color: var(--secondaryColor);
   border: 1px solid var(--borderColor);
