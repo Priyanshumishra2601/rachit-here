@@ -421,6 +421,14 @@ strong {
   #blogs {
     height: auto;
   }
+    #blogs .skill-card {
+    display: flex;
+    padding: 6px 0px;
+    margin: 4px 59px;
+    background-color: var(--secondaryColor);
+    border: 1px solid var(--borderColor);
+    flex-direction: column;
+}
   #projects {
     top: 980px;
   }
@@ -460,6 +468,14 @@ strong {
   #expert p {
     width: auto;
   }
+    #blogs .skill-card {
+    display: flex;
+    padding: 6px 0px;
+    margin: 4px 59px;
+    background-color: var(--secondaryColor);
+    border: 1px solid var(--borderColor);
+    flex-direction: column;
+}
 }
 @media (max-width: 659px) {
   #projects {
@@ -500,6 +516,14 @@ strong {
   #wp {
     padding-right: 0px;
   }
+    #blogs .skill-card {
+    display: flex;
+    padding: 6px 0px;
+    margin: 4px 59px;
+    background-color: var(--secondaryColor);
+    border: 1px solid var(--borderColor);
+    flex-direction: column;
+}
 }
 @media (max-width: 499px) {
   #wp {
@@ -511,6 +535,14 @@ strong {
   .skill-card {
     margin-right: 2px;
   }
+    #blogs .skill-card {
+    display: flex;
+    padding: 6px 0px;
+    margin: 4px 59px;
+    background-color: var(--secondaryColor);
+    border: 1px solid var(--borderColor);
+    flex-direction: column;
+}
 }
 @media (max-width: 384px) {
   #shadow h3 {
@@ -553,6 +585,14 @@ strong {
   #projects {
     top: 190vh;
   }
+    #blogs .skill-card {
+    display: flex;
+    padding: 6px 0px;
+    margin: 4px 59px;
+    background-color: var(--secondaryColor);
+    border: 1px solid var(--borderColor);
+    flex-direction: column;
+}
 }
 @media (max-width: 487px) {
   #projects {
@@ -578,12 +618,28 @@ strong {
 /*     border-top: 2px solid var(--borderColor); */
     
 }
+    #blogs .skill-card {
+    display: flex;
+    padding: 6px 0px;
+    margin: 4px 59px;
+    background-color: var(--secondaryColor);
+    border: 1px solid var(--borderColor);
+    flex-direction: column;
+}
 }
 @media (max-width: 399px) {
   #wp {
     padding-top: 6px;
     padding-right: 3px;
   }
+  #blogs .skill-card {
+    display: flex;
+    padding: 6px 0px;
+    margin: 4px 59px;
+    background-color: var(--secondaryColor);
+    border: 1px solid var(--borderColor);
+    flex-direction: column;
+}
 }
 
 @media (max-width: 370px) {
@@ -601,6 +657,14 @@ strong {
     top: 920px;
     margin-top: 250px;
   }
+  #blogs .skill-card {
+    display: flex;
+    padding: 6px 0px;
+    margin: 4px 59px;
+    background-color: var(--secondaryColor);
+    border: 1px solid var(--borderColor);
+    flex-direction: column;
+}
 }
 * {
   color: var(--mainText);
