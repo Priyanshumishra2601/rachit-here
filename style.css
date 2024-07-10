@@ -257,6 +257,16 @@ nav {
 /* #laptop {
   font-size: 0.9em;
 } */
+
+#blogs .skill-card{
+  display: flex;
+  height: auto;
+  width: 94vw;
+  margin: 8px -16px;
+  background-color: var(--secondaryColor);
+  border: 1px solid var(--borderColor);
+  flex-direction: column;
+}
 #laptop i {
   margin-top: 28px;
 }
